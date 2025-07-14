@@ -8,6 +8,7 @@ When it comes to coding, I want you to explain each step, build the code line by
 Go slowly, I'm here to learn the very basics of BLE communication, do not assume i have any prior technical knowledge.
 At first i want to have the simpliest code possible.
 Each message will be one step of the process. Don't hesitate to go very deep in the details and the explanations.
+Make it as a professor would. One lesson per one lesson. Explaining all the concepts, with examples and detailled explanations. Building the thing one step at the time.
 The length of the message doesn't matter, make it as long a needed for a thourough lesson.
 The final goal is to create a custom mesh network over BLE.
 I don't want to use GATT, I will implement a custom protocol.
